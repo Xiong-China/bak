@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/skofkyo/AutoPager/main/CustomPictureDownload/FullPictureLoad.user.js">GreasyFork版</a>
+<a href="https://update.greasyfork.org/scripts/463305/%E5%9C%96%E7%89%87%E5%85%A8%E8%BC%89Next.user.js">GreasyFork版</a>
 <h1>測試通過環境：</h1>
 <pre>
 2025/04/23
